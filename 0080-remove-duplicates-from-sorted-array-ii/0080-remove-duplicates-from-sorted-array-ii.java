@@ -58,3 +58,7 @@ class Solution {
       `k`를 1 증가시킵니다. 이렇게 하면 유일한 요소가 나타날 위치를 가리키는 `k`가 증가하게 됩니다.
 		- 반복이 끝난 후 k 값을 반환합니다.
 */
+
+/*
+   참고: https://www.notion.so/Algorithm-New-b02d4ba702294b01905a59685440b29b#9a9f6a35888c41149610beb05b35a7c4
+*/
